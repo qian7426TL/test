@@ -3,7 +3,6 @@
     <img src="./assets/logo.png">
     <h2>nihao</h2>
     <h2>two</h2>
-
     <router-view/>
   </div>
 </template>
